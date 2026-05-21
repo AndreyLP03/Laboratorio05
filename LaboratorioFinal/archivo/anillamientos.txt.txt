@@ -1,8 +1,0 @@
-TS-0427;Garza Tigre;350.5;M;2026-05-18
-TS-0428;Colibri Cola de Espatula;12.3;H;2026-05-19
-TS-0429;Pelicano Pardo;1200.0;X;2026-05-19
-TS-0430;Garza Tigre;380.2;H;2026-05-20
-TS-0431;Lapa Roja;;M;2026-05-20
-TS-0432;Tucan Pico Iris;-450.0;H;2026-05-20
-TS-0433;Gavilan Gris;290.0;MASCULINO;2026-05-20
-TS-0434;Colibri Cola de Espatula;14.1;M;2026-05-20

@@ -1,0 +1,11 @@
+TS-0427;Garza Tigre;350.5;M;2026-05-18
+TS-0891;Colibri Esmeralda;12.3;H;2026-05-19
+TS-0112;Tucan Pico Iris;520;X;2026-05-20
+TS-0943;Garza Tigre;340.2;H;2026-05-15
+TS-0234;Yiguirro;85;M;2026-05-10
+TS-0427;Garza Tigre;350.5;M;2026-05-18
+TS-0891;Colibri Esmeralda;12.3;H;2026-05-19
+TS-0112;Tucan Pico Iris;520;X;2026-05-20
+TS-0234;Yiguirro;85;M;2026-05-10
+RT-4578;Mono aviador;44.4;M;2020-4-10
+A001;Tigre;10.45;M;2025-25-12
